@@ -18,4 +18,10 @@ A. Chatbots can be interacted with either through spoken or written word (i.e., 
 
 This chatbot uses NLTK and its utilites to understand and respond to some pre-defined inputs. 
 
-It is great for beginners to understand how the NLTK library can be used to process our natural human language. The structure of this program is easy, and you can complete it in less than 10 minutes.
+It is great for beginners to understand how the NLTK library can be used to process our natural human language. The structure of this program is easy. You can complete it in less than 10 minutes.
+
+## Program 2 - How to Build a Chatbot Using the Python ChatterBot Library
+
+This chatbot uses ChatterBot and its utilities to develop conversational skills. 
+
+It is a very simple yet powerful way to develop a chatbot by providing the program with training data and allowing it to continue learning and improving over time. You can complete it in less than 10 minutes. 
