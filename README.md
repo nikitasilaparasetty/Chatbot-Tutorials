@@ -25,3 +25,5 @@ It is great for beginners to understand how the NLTK library can be used to proc
 This chatbot uses ChatterBot and its utilities to develop conversational skills. 
 
 It is a very simple yet powerful way to develop a chatbot by providing the program with training data and allowing it to continue learning and improving over time. You can complete it in less than 10 minutes. 
+
+You can find the step-by-step tutorial here: https://medium.com/@nikitasilaparasetty/how-to-build-a-chatbot-using-the-python-chatterbot-library-fb606fdf14bb
